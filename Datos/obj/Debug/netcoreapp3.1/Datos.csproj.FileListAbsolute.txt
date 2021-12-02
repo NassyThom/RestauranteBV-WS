@@ -1,0 +1,11 @@
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\Datos\bin\Debug\netcoreapp3.1\Datos.dll.config

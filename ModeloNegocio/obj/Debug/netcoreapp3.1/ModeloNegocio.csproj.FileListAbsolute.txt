@@ -1,0 +1,14 @@
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\bin\Debug\netcoreapp3.1\ModeloNegocio.deps.json
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\bin\Debug\netcoreapp3.1\ModeloNegocio.dll
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\bin\Debug\netcoreapp3.1\ModeloNegocio.pdb
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\obj\Debug\netcoreapp3.1\ModeloNegocio.csproj.AssemblyReference.cache
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\obj\Debug\netcoreapp3.1\ModeloNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\obj\Debug\netcoreapp3.1\ModeloNegocio.AssemblyInfoInputs.cache
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\obj\Debug\netcoreapp3.1\ModeloNegocio.AssemblyInfo.cs
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\obj\Debug\netcoreapp3.1\ModeloNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\obj\Debug\netcoreapp3.1\ModeloNegocio.csproj.CopyComplete
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\obj\Debug\netcoreapp3.1\ModeloNegocio.dll
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\obj\Debug\netcoreapp3.1\ModeloNegocio.pdb
+C:\Users\Tms-n\source\repos\RestauranteBV-WS\ModeloNegocio\bin\Debug\netcoreapp3.1\Datos.dll.config
